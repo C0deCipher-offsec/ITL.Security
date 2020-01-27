@@ -5,4 +5,7 @@ instrutor maycon douglas java developer
 
 
 
-instrutor italo python developer 
+instrutor italo python developer
+
+
+instrutora bia web developer  
