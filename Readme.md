@@ -11,3 +11,4 @@ instrutor italo python developer
 instrutora bia web developer
 
 instrutora marina ruby   
+instrutor joão devops
