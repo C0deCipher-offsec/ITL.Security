@@ -8,4 +8,6 @@ instrutor maycon douglas java developer
 instrutor italo python developer
 
 
-instrutora bia web developer  
+instrutora bia web developer
+
+instrutora marina ruby   
