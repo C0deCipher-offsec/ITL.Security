@@ -12,3 +12,6 @@ instrutora bia web developer
 
 instrutora marina ruby   
 instrutor joão devops
+
+Acesse italodrn.silva@gmail.com
+
